@@ -5,8 +5,8 @@ This repository contains Jupyter Notebooks for training Convolutional Neural Net
 
 ## Notebooks
 
-- `PytorchCNNFnistWithoutRegularization.ipynb`: Training a CNN on FMNIST without regularization.
-- `PytorchCNNFnistWithRegularization.ipynb`: Applying regularization methods to train the CNN.
+- `PytorchCNNFMnistWithoutRegularization.ipynb`: Training a CNN on FMNIST without regularization.
+- `PytorchCNNFMnistWithRegularization.ipynb`: Applying regularization methods to train the CNN.
 - `dataAugmentation.ipynb`: Using data augmentation techniques to enhance model performance.
 
 ## What is Regularization?
@@ -17,7 +17,9 @@ Regularization involves techniques to prevent overfitting, ensuring the model ge
 - **L2 Regularization**: Adds the squared value of coefficients as a penalty term to the loss function, discouraging large weights.
 - **Dropout**: Randomly drops neurons during training to prevent co-adaptation of features.
 - **Batch Normalization**: Normalizes the inputs of each layer to accelerate training and improve stability.
+- **Data Augmentation**: Generates new training examples through random transformations, increasing the diversity of the training set.
 - **Early Stopping**: Stops training when the validation performance deteriorates to prevent overfitting.
+
 
 ## What is Data Augmentation?
 
@@ -37,11 +39,11 @@ To run the notebooks, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DeepLearning-CNN-FMNIST-Experiments.git
+   git clone https://github.com/yourusername/FMNIST-Regularization-CNN.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd DeepLearning-CNN-FMNIST-Experiments
+   cd FMNIST-Regularization-CNN
    ```
 3. Install the required packages:
    ```bash
