@@ -17,7 +17,9 @@ Regularization involves techniques to prevent overfitting, ensuring the model ge
 - **L2 Regularization**: Adds the squared value of coefficients as a penalty term to the loss function, discouraging large weights.
 - **Dropout**: Randomly drops neurons during training to prevent co-adaptation of features.
 - **Batch Normalization**: Normalizes the inputs of each layer to accelerate training and improve stability.
+- **Data Augmentation**: Generates new training examples through random transformations, increasing the diversity of the training set.
 - **Early Stopping**: Stops training when the validation performance deteriorates to prevent overfitting.
+
 
 ## What is Data Augmentation?
 
