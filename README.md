@@ -1,5 +1,4 @@
 
-```markdown
 # DeepLearning-CNN-FMNIST-Experiments
 
 This repository contains Jupyter Notebooks for training Convolutional Neural Networks (CNNs) on the Fashion MNIST (FMNIST) dataset using PyTorch. The focus is on understanding the effects of regularization and data augmentation techniques on model performance.
