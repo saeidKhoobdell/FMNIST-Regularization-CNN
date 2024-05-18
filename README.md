@@ -5,8 +5,8 @@ This repository contains Jupyter Notebooks for training Convolutional Neural Net
 
 ## Notebooks
 
-- `PytorchCNNFnistWithoutRegularization.ipynb`: Training a CNN on FMNIST without regularization.
-- `PytorchCNNFnistWithRegularization.ipynb`: Applying regularization methods to train the CNN.
+- `PytorchCNNFMnistWithoutRegularization.ipynb`: Training a CNN on FMNIST without regularization.
+- `PytorchCNNFMnistWithRegularization.ipynb`: Applying regularization methods to train the CNN.
 - `dataAugmentation.ipynb`: Using data augmentation techniques to enhance model performance.
 
 ## What is Regularization?
