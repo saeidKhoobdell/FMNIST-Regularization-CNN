@@ -39,11 +39,11 @@ To run the notebooks, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DeepLearning-CNN-FMNIST-Experiments.git
+   git clone https://github.com/yourusername/FMNIST-Regularization-CNN.git
    ```
 2. Navigate to the repository directory:
    ```bash
-   cd DeepLearning-CNN-FMNIST-Experiments
+   cd FMNIST-Regularization-CNN
    ```
 3. Install the required packages:
    ```bash
